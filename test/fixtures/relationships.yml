@@ -1,0 +1,15 @@
+one:
+  follower: michael
+  followed: redjo
+
+two:
+  follower: michael
+  followed: lucifer
+
+three:
+  follower: redjo
+  followed: michael
+
+four:
+  follower: isus
+  followed: michael
